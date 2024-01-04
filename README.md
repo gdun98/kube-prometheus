@@ -9,7 +9,9 @@ Use at your own risk.
 ## Setup
 - [Install go](https://go.dev/doc/install)
 - [Install jsonnet](https://github.com/google/go-jsonnet)
+- [Install jsonnet-builder](https://github.com/jsonnet-bundler/jsonnet-bundler#install)
 - [Install go yaml to json](https://github.com/brancz/gojsontoyaml)
+- Run `jb install`
 
 ## Build
 - Modify `main.jsonnet` to have the correct NFS server setup.
